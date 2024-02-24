@@ -1,0 +1,6 @@
+@Pockemons.API_HostAddress = http://localhost:5069
+
+GET {{Pockemons.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
